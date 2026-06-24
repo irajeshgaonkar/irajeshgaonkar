@@ -51,6 +51,6 @@ Replace these with your pinned repos once they are ready.
 
 ## Connect
 
-- GitHub: `https://github.com/<your-username>`
+- GitHub: `https://github.com/irajeshgaonkar`
 - LinkedIn: `https://www.linkedin.com/in/rajesh-gaonkar/`
 - Email: `irajeshgaonkar@gmail.com`
